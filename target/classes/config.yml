@@ -1,0 +1,9 @@
+# Append to the beginning of system messages.
+Prefix: "[&cRAM&f] "
+# The unit is seconds.
+AutomaticMessageInterval: 300
+
+Messages:
+  - "&aFirst Text"
+  - "&aSecond Text"
+  # ........

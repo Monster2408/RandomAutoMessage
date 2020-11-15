@@ -1,0 +1,9 @@
+doNotHavePermission: "&cYou do not have permission!!"
+manyArgument: "&cThere are too many arguments!!"
+
+PluginReloaded: "&bConfig reloaded."
+
+help:
+  help: "&aShow commands that help you."
+  reload: "&aReload the plugin."
+  format: "&7{COMMAND} &a- &7{USAGE}"

@@ -1,0 +1,12 @@
+name: RandomAutoMessage
+version: 1.0.0
+main: jp.dip.monsterlifeserver.randomautomessage.randomautomessage.RandomAutoMessage
+api-version: 1.13
+prefix: RAM
+authors: [Monster2408]
+description: Randomly Auto Message
+
+commands:
+  RandomAutoMessage:
+    aliases: ram
+    description: Main Command of RandomAutoMessage Plugin
